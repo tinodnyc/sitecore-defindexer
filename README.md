@@ -1,8 +1,6 @@
 ### What is it? ###
 Some Pipeline Steps and Endpoints for Sitecore Data Exchange Framework.
 
-_And yes against my better judgement, I named it using DEF instead of DEF..._
-
 ### What does it do? ###
 
 Dual Purpose:
